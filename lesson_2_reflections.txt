@@ -5,3 +5,5 @@ How is the staging area different from the working directory and the repository?
 files are categorized by tracked untracked and committed
 
 Add a new line to modify
+
+New line
