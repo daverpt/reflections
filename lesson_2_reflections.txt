@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 creates .git file to record files and changes
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+files are categorized by tracked untracked and committed
