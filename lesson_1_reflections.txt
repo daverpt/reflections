@@ -15,3 +15,5 @@ using titles for changes orginize logical steps of change and clearly indicate v
 
 Now that you have your workspace set up, what do you want to try using Git for?
 Personal history of programmer learning with android development
+
+New line in file one

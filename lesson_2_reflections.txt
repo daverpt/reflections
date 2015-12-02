@@ -4,6 +4,8 @@ creates .git file to record files and changes
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 files are categorized by tracked untracked and committed
 
-Add a new line to modify
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+with experimentation and new approaches
 
-New line
+How do the diagrams help you visualize the branch structure?
+Logic of commits and current state of branch vs master
