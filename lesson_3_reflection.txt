@@ -2,3 +2,7 @@ When would you want to use a remote repository rather than keeping all your work
 At times public input is important to a project for more immediate feedback.
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 To insure control over public files
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Fork is a personal copy of anothers repository
+Clones are working copies of remote repository
+Branches are process changes in a project work flow that should not affect master line
